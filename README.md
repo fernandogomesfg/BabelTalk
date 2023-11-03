@@ -1,26 +1,26 @@
-# BabelTalk - Frases Motivacionais
+# BabelTalk - Frases Motivacionais 🌍✨
 
-BabelTalk é um aplicativo web que gera frases motivacionais e oferece opções de tradução em diferentes idiomas. O nome "BabelTalk" é uma combinação de "Babel" e "Talk", representando a diversidade de idiomas e a capacidade de comunicação. O objectivo é inspirar as pessoas com frases motivacionais e promover a compreensão entre diferentes culturas.
+BabelTalk é um aplicativo web que gera frases motivacionais e oferece opções de tradução em diferentes idiomas. O nome "BabelTalk" é uma combinação de "Babel" e "Talk", representando a diversidade de idiomas e a capacidade de comunicação. O objetivo é inspirar as pessoas com frases motivacionais e promover a compreensão entre diferentes culturas.
 
-**Inspiração na Torre de Babel:** O nome BabelTalk foi inspirado na narrativa bíblica da Torre de Babel, que simboliza a diversidade de línguas e a busca pela compreensão mútua. Assim como a torre representa a tentativa de superar barreiras linguísticas, BabelTalk busca facilitar a comunicação e a inspiração em diferentes idiomas.
+**Inspiração na Torre de Babel** 🏰: O nome BabelTalk foi inspirado na narrativa bíblica da Torre de Babel, que simboliza a diversidade de línguas e a busca pela compreensão mútua. Assim como a torre representa a tentativa de superar barreiras linguísticas, BabelTalk busca facilitar a comunicação e a inspiração em diferentes idiomas.
 
 ## Como Rodar a Aplicação
 
 Siga estas etapas para executar a aplicação BabelTalk no seu ambiente local:
 
-1. **Pré-requisitos:**
+1. **Pré-requisitos** 📋:
    - Certifique-se de ter o Python instalado no seu sistema.
 
-2. **Clone o Repositório**
+2. **Clone o Repositório** 📦:
 
-3. **Instale as Dependências:**
+3. **Instale as Dependências** 🛠️:
    - Navegue até a pasta do projeto:
      ```
      cd BabelTalk
      ```
    - Crie um ambiente virtual (opcional, mas recomendado):
      ```
-     python -m venv .venv
+     python -m venv venv
      ```
    - Ative o ambiente virtual:
      - No Windows:
@@ -36,13 +36,13 @@ Siga estas etapas para executar a aplicação BabelTalk no seu ambiente local:
      pip install -r requirements.txt
      ```
 
-4. **Execute a Aplicação:**
+4. **Execute a Aplicação** ▶️:
    - Execute a aplicação usando o Streamlit:
      ```
      streamlit run app.py
      ```
 
-5. **Acesse a Aplicação:**
+5. **Acesse a Aplicação** 🌐:
    - Abra um navegador e acesse o link fornecido pelo Streamlit (geralmente algo como http://localhost:8501).
 
 ## Funcionalidades
@@ -65,4 +65,4 @@ Este projeto é distribuído sob a Licença MIT.
 
 ---
 
-Aproveite o BabelTalk e compartilhe frases inspiradoras em diferentes idiomas!
+Aproveite o BabelTalk e compartilhe frases inspiradoras em diferentes idiomas! 🚀🌟
